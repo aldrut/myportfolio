@@ -1,0 +1,16 @@
+*
+{
+margin : 0px;
+padding : 0px;
+background-color : #dcdcdc;
+}
+.container
+{
+	width : 50%;
+	background-color : yellow;
+}
+.container .header
+{
+	font-size : 5em;
+	
+}
